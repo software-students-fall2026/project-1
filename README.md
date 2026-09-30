@@ -8,7 +8,7 @@ David Romero – https://github.com/Icegolem4
 Sally Hegab – https://github.com/sallyhegab 
 Biniam Tsige – https://github.com/BTSM10
 Bereket Demeke - https://github.com/Bereket-454
-Saajid
+Saajid Rohman - https://github.com/sar9249
 
 ## Review of the Current Application
 
