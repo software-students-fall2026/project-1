@@ -32,6 +32,8 @@ We read the open questions and future works sections of the specification docume
 
 ### Michael – Professor
 
+Michael Romero — michael@romerosf.com (professor user) (not an actual professor but he uses slides to present at his job, so a part of that user group) 
+
 When Michael was using the slide deck, I noticed that every time he was moving on to the next topic he would say “next slide.” This would usually create a new slide. However, once he actually started talking about the next topic, the slide machine would create a further slide for the new information, leaving the prior slide blank. I also noticed he talked slower than normal to make sure the slide machine got it. In addition, he felt the need to edit the slides once he was done with the presentation to fix and rearrange things.
 
 #### Michael’s four frustrations:
@@ -51,6 +53,9 @@ When Michael was using the slide deck, I noticed that every time he was moving o
 - He wants a different mode for creating the slide vs. editing it once he is done speaking
 
 ### Kujo – Student
+
+Kujo Henkle-Kawa
+mbh9506@nyu.edu (student user)
 
 I gave Kujo a presentation while using the slide machine app as if I was one of his professors, and then sent him an exit ticket quiz to fill out. I noticed that at first he was shocked every time a slide ‘magically’ appeared, but by the end he was just listening as normal. I emailed the exit ticket quiz and at first he didn’t have access to it because he was logged in from a non-nyu account, so I had to edit the quiz settings. Once he got access he said he liked the quiz system and enjoyed that he could do it on his phone on google forms. He didn’t do as well on the quiz as I thought he would, and he said it was because it was hard to pay attention sometimes. Often once the slides for one topic had been generated I’d already have moved on to the next topic, so he felt he had to choose between reading what was on the slides or listening to what I was saying.
 
